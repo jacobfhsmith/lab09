@@ -1,6 +1,6 @@
 ---
 title: "Lab 09: Logistic Regression"
-subtitle: "Due: Sat, April 11 at 11:59pm ET"
+subtitle: "Due: Sat, April 10 at 11:59pm ET"
 author: ""
 date: ""
 editor_options: 
